@@ -1,0 +1,13 @@
+# Archivos compilados de Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Variables de entorno
+.env
